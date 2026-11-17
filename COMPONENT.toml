@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-automate"
-description = "SigmaOS subsystem component for automate"
+description = "Task automation engine (hooks, rules, schedules)"
 version = "0.1.0"
 tier = 5
 
